@@ -4,8 +4,7 @@ fontpad
 
 Minimum text editor for trying a font(.ttf) before installation.
 
-.. note:: For Ruby 2.x see fontpad2.rb_.
-
+For Ruby 2.x see fontpad2.rb_.
 .. _fontpad2.rb: https://github.com/hashimoton/fontpad2
 ===========
 PLATFORMS
